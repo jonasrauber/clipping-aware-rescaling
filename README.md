@@ -1,4 +1,4 @@
-# Fast Differentiable Clipping-Aware Normalization and Rescaling
+# Fast Differentiable Clipping-Aware Rescaling
 
 ## Signature
 
