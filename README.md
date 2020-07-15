@@ -51,16 +51,18 @@ A tech report explaining the algortihm will be available on arXiv soon.
 
 ## Citation (BibTeX)
 
+```bibtex
 @unpublished{rauber2020clippingaware,
   title={Fast Differentiable Clipping-Aware Normalization and Rescaling},
   author={Rauber, Jonas and Bethge, Matthias},
   year={2020},
   note={Manuscript in preparation},
 }
+```
 
 ## License
 
-BSD 3-Clause License
+[BSD 3-Clause License](./LICENSE)
 
 ## Author
 
