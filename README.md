@@ -47,16 +47,17 @@ tensor([3.6000, 3.6000, 3.6000, 3.6000], dtype=torch.float64)
 
 ## Tech Report
 
-A tech report explaining the algortihm will be available on arXiv soon.
+Our tech report *[Fast Differentiable Clipping-Aware Normalization and Rescaling](https://arxiv.org/abs/2007.07677)* explaining the algortihm is available on [arXiv](https://arxiv.org/abs/2007.07677).
 
 ## Citation (BibTeX)
 
 ```bibtex
-@unpublished{rauber2020clippingaware,
+@article{rauber2020fast,
   title={Fast Differentiable Clipping-Aware Normalization and Rescaling},
   author={Rauber, Jonas and Bethge, Matthias},
+  journal={arXiv preprint arXiv:2007.07677},
   year={2020},
-  note={Manuscript in preparation},
+  url={https://github.com/jonasrauber/clipping-aware-rescaling},
 }
 ```
 
