@@ -10,7 +10,7 @@
 import eagerpy as ep
 
 
-def l2_clipping_aware_rescaling(x, delta, eps: float, a: float = 0.0, b: float = 1.0):
+def l2_clipping_aware_rescaling(x, delta, eps: float, a: float = 0.0, b: float = 1.0):  # type: ignore
     """Calculates eta such that norm(clip(x + eta * delta, a, b) - x) == eps.
 
     Assumes x and delta have a batch dimension and eps, a, b, and p are
