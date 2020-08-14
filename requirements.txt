@@ -1,5 +1,5 @@
 pytest==5.4.3
-eagerpy==0.27.0
+eagerpy==0.29.0
 numpy==1.19.0
 torch==1.4.0
 jaxlib==0.1.51
